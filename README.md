@@ -20,4 +20,5 @@ will prompt you for this information. Once you send a comment, you can check you
 #Known Issues
 Entering a non existent list name and then entering a correct one after will cause an error, for some reason the app isn't pulling the json information correctly on the second try
 
+Next step is finding a way to grab user board and card by name instead of url
 
